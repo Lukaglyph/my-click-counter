@@ -1,0 +1,27 @@
+# Lukapis Click Analyzer
+
+リズムやタップの間隔を計測するためのシンプルなWebツールです。
+A simple web tool for measuring click rhythm and intervals.
+
+## 🚀 About This Project
+このプロジェクトは、プログラミング学習の一環として作成されました。
+AIを活用した「バイブコーディング」を取り入れ、モダンなUIと実用的な機能を両立させています。
+
+This project was created as part of my programming journey. 
+I am exploring "Vibe Coding" to balance modern UI design with practical functionality.
+
+## 🛠 Features
+- **Total Taps**: タップ回数のカウントアップ (Tap counter)
+- **Last Interval**: 直近のタップ間隔をミリ秒単位で表示 (Latest interval in seconds)
+- **Average Time**: 全タップの平均間隔を計算 (Average tap interval calculation)
+- **Persistence**: 設定値はブラウザに保存されます (Settings are saved in local storage)
+
+## 💬 Message
+現在プログラミングを勉強中です。英語はまだ得意ではありませんが、楽しみながら開発に取り組んでいます！
+
+I am currently learning to code. 
+English is not my strong suit yet, but I am enjoying the process of building things!
+
+---
+Developed by **Lukapis**
+Powered by Vibe Coding
